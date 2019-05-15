@@ -1,0 +1,9 @@
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\bin\Debug\NewsApp.DataAccess.Abstract.dll
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\bin\Debug\NewsApp.DataAccess.Abstract.pdb
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\bin\Debug\NewsApp.Models.dll
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\bin\Debug\NewsApp.Models.pdb
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\obj\Debug\NewsApp.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\obj\Debug\NewsApp.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\obj\Debug\NewsApp.DataAccess.Abstract.csproj.CopyComplete
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\obj\Debug\NewsApp.DataAccess.Abstract.dll
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.DataAccess.Abstract\obj\Debug\NewsApp.DataAccess.Abstract.pdb

@@ -1,0 +1,6 @@
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.Models\bin\Debug\NewsApp.Models.dll
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.Models\bin\Debug\NewsApp.Models.pdb
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.Models\obj\Debug\NewsApp.Models.csprojAssemblyReference.cache
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.Models\obj\Debug\NewsApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.Models\obj\Debug\NewsApp.Models.dll
+C:\Users\azat\Desktop\da ado askar\Dapper-master\NewsApp\NewsApp.Models\obj\Debug\NewsApp.Models.pdb
